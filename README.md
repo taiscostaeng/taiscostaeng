@@ -18,7 +18,7 @@
 
 ### I am learning about 📚🤓
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi,react)](https://skillicons.dev)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
