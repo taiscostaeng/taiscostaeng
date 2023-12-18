@@ -10,11 +10,18 @@
 - 🧬 To work with quality is my DNA
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Hard Skills 💻
+### Hard Skills 💻👩🏽‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,postgres)](https://skillicons.dev)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### I am learning about 📚🤓
+
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi)](https://skillicons.dev)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <div>
 <a href="https://github.com/taiscostaeng/">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiscostaeng&layout=compact&langs_count=7&theme=dracula"/>
