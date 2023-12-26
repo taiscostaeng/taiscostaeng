@@ -1,13 +1,12 @@
 <h1> Hello, I’m Taís Costa 🙋🏽‍♀️ </h1>
 
-<h2> Full-Stack Developer | Software Engineer </h2>
+<h2> Full-Stack Developer </h2>
 
 - 👀 I’m interested in software development
 - 📚 I’m currently learning about programation language and frameworks
 - 💞️ I’m looking to collaborate on new projects about softwares technology
 - 🍉 I’m a food engineer. I have seven years of experience at food industry  ❤
 - 🎯 I’m able to solve problems and to find continuous improvement process
-- 🧬 To work with quality is my DNA
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Hard Skills 💻👩🏽‍💻
