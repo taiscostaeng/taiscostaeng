@@ -1,35 +1,37 @@
-<h1> Hello, I’m Taís Costa 🙋🏽‍♀️ </h1>
+<h1> Hi, I’m Taís Farias 🙋🏽‍♀️ </h1>
 
-<h2> Full-Stack Developer </h2>
+<h3> Data Engineer </h3>
 
-- 👀 I’m interested in software development
-- 📚 I’m currently learning about programation language and frameworks
-- 💞️ I’m looking to collaborate on new projects about softwares technology
-- 🍉 I’m a food engineer. I have seven years of experience at food industry  ❤
-- 🎯 I’m able to solve problems and to find continuous improvement process
+<p>
+I work in the data field, combining analytical thinking with a strong engineering background.
+Currently, I’m deepening my skills to transition into Data Engineering, focusing on building scalable, reliable, and well-structured data solutions.
+</p>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Hard Skills 💻👩🏽‍💻
+- 🔍 Experienced as a Data Analyst, working with power BI, automation, and problem-solving  
+- 🚀 Transitioning to Data Engineering, with focus on data pipelines, cloud, and software development   
+- 📚 Currently studying data architecture, data modeling, security, and data engineering best practices  
+- 🏭 Food Engineer with 7+ years of experience in the food industry, applying data-driven decision-making  
+- 🎯 Strong in continuous improvement, critical thinking, and turning data into actionable insights  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,postgres)](https://skillicons.dev)
+-------------------------------------------------------------------------------------------------------------------------------------
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🛠️ Hard Skills
 
-### I am learning about 📚🤓
+- Data analysis and automation with Python  
+- Cloud fundamentals (AWS)  
+- Data collection and processing
+- Web Scraping 
+- Data visualization (Power BI)
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi,react)](https://skillicons.dev)
+-------------------------------------------------------------------------------------------------------------------------------------
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<div>
-<a href="https://github.com/taiscostaeng/">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiscostaeng&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### You'll find Me 🚩
+### 🌐 Find Me Here
 
 <div>
-<a href="https://www.linkedin.com/in/taiscosta-engenheira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:taiscosta.eng@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/taiscosta-engenheira/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:taiscosta.eng@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </div>
